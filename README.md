@@ -17,5 +17,11 @@
 
 #### the Home activity:
 https://github.com/lam843/Android_Project/assets/78732216/5edc0b81-4d33-47cc-b71c-46da432a4e01
+
+#### Full demo:
+ 
+https://github.com/lam843/Android_Project/assets/78732216/f3d35675-d890-4c98-988b-fffa3d4d9aff
+
+
   
 </details>
